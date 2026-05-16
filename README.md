@@ -1,3 +1,5 @@
+![hero](./assets/hero.svg)
+
 # changelog-forge
 
 **Turn your conventional commits into a real CHANGELOG entry. Plus a semver bump suggestion.**
