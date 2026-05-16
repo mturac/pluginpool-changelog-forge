@@ -97,6 +97,10 @@ Running `--write` twice with the same input produces the same file — both the 
 - Flat conventional-commit grammar — multi-paragraph footers (`Refs:` blocks etc.) aren't merged.
 - `--write` only manages the `## [Unreleased]` block. Promoting it to a versioned section at release time is a manual step.
 
+## Examples
+
+Step-by-step walkthroughs with real input fixtures and the helper's actual output live in [`examples/`](./examples/README.md). Three or four scenarios per plugin — from the happy path to the edge cases the test suite guards.
+
 ## Part of the pluginpool family
 
 Ten focused Claude Code plugins for everyday productivity:
